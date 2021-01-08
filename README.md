@@ -1,3 +1,3 @@
 # Universal Remote
 
-![Alt text](breadboard-circuit.png?raw=true)
+![Alt text](breadboard_circuit.png?raw=true)
